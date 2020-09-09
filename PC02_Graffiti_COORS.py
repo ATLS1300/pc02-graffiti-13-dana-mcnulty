@@ -21,9 +21,9 @@ w=600
 h=600
 panel.setup(width=w,height=h) #changing size of my panel
 
-#image="Bezos.gif"
+image="Bezos.gif"
 panel.bgcolor("lightgreen")
-#panel.bgpic(image)
+panel.bgpic(image)
 
 #==== Add more code=====
 ht()
